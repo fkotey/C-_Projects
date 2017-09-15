@@ -14,4 +14,4 @@ IDE will need to do it different.
 * **Boost configuration** - Configure boost by following the steps [here](https://studiofreya.com/2017/05/17/how-to-use-boost-1-64-in-visual-studio-2017/)
 
   
-![stockAnalyzer](https://github.com/fkotey/stockAnalyzer/blob/master/Image_001.jpg)  
+![stockAnalyzer](https://github.com/fkotey/Cpp_Projects/tree/master/stockAnalyzer/img/Image_001.jpg)  
