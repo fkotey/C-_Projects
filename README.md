@@ -1,2 +1,2 @@
-# C-_Projects
+# C++ Projects
 Repo for C++ Projects
