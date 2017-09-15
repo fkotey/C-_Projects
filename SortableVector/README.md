@@ -12,4 +12,4 @@ template in a driver program.
 
 
   
-![SortableVector](https://github.com/fkotey/Cpp_Projects/tree/master/SortableVector/img/SortVectTest.jpg)  
+![SortableVector](https://github.com/fkotey/Cpp_Projects/blob/master/SortableVector/img/SortVectTest.jpg)  
